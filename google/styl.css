@@ -1,0 +1,19 @@
+body{
+  border-top: 300px;
+  border-left-style: #b91c1c;
+  background-position: 70pt;
+  background-color: blueviolet;
+}
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid pink;
+    border-left: none;
+    cursor: pointer;
+  }
+ 
+
